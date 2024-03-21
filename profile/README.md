@@ -1,12 +1,21 @@
-## Hi there 👋
+# Welcome to Projectopia! 🚀
 
-<!--
+Making Project Kickstarts Effortless and Easy to Manage! 💡
 
-**Here are some ideas to get you started:**
+<img src="us.png" height="200" />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Who We Are
+
+At Projectopia, we're all about simplifying project initiation and management. We're also the proud founders of [Ubunchuu Truong Us](https://ubunchuu-truong-us.github.io/), and we believe in building a vibrant community while collaborating with like-minded organizations.
+
+## How We Help
+
+✨ Effortless Project Start: Connect to our GitHub-powered project generators and receive personalized project ideas tailored to your interests, saving you valuable brainstorming time.
+
+🔧 Your Template with Our Generator: Share your fantastic common templates with us, and we'll make them available throughout the code community. Easily reuse your templates and accelerate your career path with our project generator.
+
+## Get Started
+
+Ready to effortlessly kickstart and manage your projects? Visit us at [Projectopia Website](https://projectopia-frontend.vercel.app/) and embark on a seamless project management journey with Projectopia! 🌈💻
+
+Let's create a thriving community together! Join our Facebook group and connect with fellow project enthusiasts: [Facebook](https://facebook.com/projectopia)
