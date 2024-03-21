@@ -2,7 +2,7 @@
 
 Making Project Kickstarts Effortless and Easy to Manage! 💡
 
-<img src="../us.png" height="200" />
+<img src="https://raw.githubusercontent.com/projectopia/.github/main/us.png" height="200" />
 
 ## Who We Are
 
